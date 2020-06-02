@@ -1,2 +1,2 @@
-# oracle-cloud-storage-scripts
-Scripts for verifying that Oracle's cloud storage has uploaded files successfully. 
+# Oracle Cloud Archive Storage - Automated Hash Checking
+This script will verify the hash of local files with the hash of the files on Oracle's servers.
