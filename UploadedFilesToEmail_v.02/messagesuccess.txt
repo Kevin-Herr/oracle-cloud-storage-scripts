@@ -1,0 +1,5 @@
+The ${ARCHIVEYEAR} archives have been successfully uploaded to Oracle and verified.
+
+The below files have not yet been uploaded.
+
+${MISSINGFILES}

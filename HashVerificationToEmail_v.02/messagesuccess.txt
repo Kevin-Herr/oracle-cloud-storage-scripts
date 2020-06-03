@@ -1,0 +1,3 @@
+The ${ARCHIVEYEAR} archives have been successfully uploaded to Oracle and verified.
+
+${MISSINGFILES}
